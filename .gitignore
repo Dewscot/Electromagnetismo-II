@@ -1,0 +1,11 @@
+# Configuración local de Obsidian
+.obsidian/
+
+# Papelera
+.trash/
+
+# Material bibliográfico y presentaciones
+Materiales/
+
+# Documentos PDF
+*.pdf
