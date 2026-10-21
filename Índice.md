@@ -5,4 +5,5 @@
 2. problemas: anotare un problema de ejemplo y la idea de como realizarlo
 
 3.  errores comunes: presentare un ejercicio y el error común al realizarlo
-Chatgpt me esta ayudando 
+
+Chatgpt me esta ayudando
