@@ -6,8 +6,8 @@
 >**Mi respuesta**
 >
 >Si existe un campo magnético al recorrer corriente el solenoide (justificarlo mas no sé). Dada la condición de corriente constante no debería de existir una fem autoinducida, ya que la fem autoinducida es una fuerza que es contraria al cambio, queriendo mantener la normalidad del sistema
-> 
->[!tip]-  Correcion
+
+>[!tip]- Correcion
 >
 >Existe un campo magnético al recorrer corriente el circuito y se puede describir con la Ley de Ampére. No existe fem autoinducida ya que la corriente es constante en el tiempo
 
@@ -15,12 +15,19 @@
 >*Respuesta*
 >La fem autoinducida empieza a crear una fuerza contraria al cambio, reduciendo el cambio hasta que vuelve se vuelve a eliminar al terminar el aumento, debería de ser el doble la fem inducida $e=L2$ 
 
+>[!tip]- correcion
+>Ya que la  fem autoinducida se define $$ e = -L\frac{di}{dt}$$ al duplicar el aumento de corriente queda $$ e = -L\frac{2di}{dt} \implies e=-2L\frac{di}{dt} $$ por lo que se duplica la fem autoinducida 
+
+
 >[!question]-  ¿Por qué la inductancia de un solenoide ideal depende de su geometría, mientras que la fem autoinducida depende también de cómo varía la corriente?:
 > No sé porque razón depende de su geometría, entiendo que la fem autoinducida viene de $\epsilon = L \frac{di}{dx}$
 
+>[!tip]-  correcion
+> la inductancia se define $$ L=\frac{N}{i} \Phi_B$$
+> Mientras que el flujo magnético se define $$\int_{s}B\cdot d\vec{A}$$ por lo tanto La inductancia depende 
 
 
-  
+
 
 
 
