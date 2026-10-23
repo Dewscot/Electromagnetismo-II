@@ -5,7 +5,11 @@
 >[!question]-  Si circula una corriente constante y distinta de cero por un solenoide, ¿existe campo magnético? ¿Existe fem autoinducida? Justifica ambas respuestas.
 >**Mi respuesta**
 >
->Si existe un campo magnético al recorrer corriente el solenoide (justificarlo mas no sé). Dada la condición de corriente constante no debería de existir una fem autoinducida, ya que la fem autoinducida es una fuerza que es contraria al cambio, queriendo mantener la normalidad del sistema 
+>Si existe un campo magnético al recorrer corriente el solenoide (justificarlo mas no sé). Dada la condición de corriente constante no debería de existir una fem autoinducida, ya que la fem autoinducida es una fuerza que es contraria al cambio, queriendo mantener la normalidad del sistema
+> 
+>[!tip]-  Correcion
+>
+>Existe un campo magnético al recorrer corriente el circuito y se puede describir con la Ley de Ampére. No existe fem autoinducida ya que la corriente es constante en el tiempo
 
 >[!question]- Supongamos que la corriente aumenta con el tiempo. ¿Qué sucede con la fem autoinducida si la rapidez de aumento de la corriente se duplica, manteniendo \(L\) constante?
 >*Respuesta*
