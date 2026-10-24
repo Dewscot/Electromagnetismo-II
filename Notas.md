@@ -29,6 +29,8 @@
 
 Si calculamos la inductancia de cada solenoide $$ L_a=u_0\frac{N_a^2 A}{l} \quad   L_b=u_0\frac{N_b^2 A}{l} $$ Y tomamos la relación $$ N_b=2N_a $$ si remplazamos en $L_b$ tendremos que $L_b = u_0\frac{4N_{a}{^2}A}{l}$ el cual si dividimos $\frac{L_b}{L_a}$ tendremos que la inductancia de $L_b$ es 4 veces mayor al tener el doble de espiras que la inductancia $L_a$. Mi 1 1 es que al haber mayor cantidad de espiras en la cual transcurre corriente, producen un campo 1 mayor por lo cual al producir un cambio de corriente, se produce una mayor fuerza contraria al cambio del campo magnético
 
+al duplicar la corriente la $$U_{bf}=2Li_0^2 \implies \Delta U=Li_0 \frac{3}{2}$$ Siendo esa su diferencia de energia. Pero la parte fisica, al duplicar la corriente lo que esta cambiando es la corriente que pasa por cada espira manteniendo la misma geometria el inductor, por lo que la fem autoinducida solo se modifica por la parte de la corriente $e=L2\frac{di}{dt}$
+
 
 
 
