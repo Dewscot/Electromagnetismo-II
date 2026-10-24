@@ -46,3 +46,19 @@ $$
  $$
 
 
+$$
+L \frac{di}{dt}=\frac{Q}{C} \to
+$$
+$$
+$$
+L\frac{di}{dt}=\frac{Q}{C}
+$$
+
+#
+
+
+
+
+
+
+
