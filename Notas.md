@@ -34,4 +34,15 @@ Si duplicamos la corriente, se duplica el campo magnético y, por lo tanto, se d
 $u_b \implies$ densidad energética magnética 
 $$u_b=\frac{B^2}{2\mu_{0}}$$
 Entonces si duplicamos el campo magnético al duplicar la corriente 
-$$u_{b}=\frac{(2B)^2}{2\mu}=\frac{2B{^2}_{2}}{\mu}, \quad B=\mu_{0}\frac{N}{l}i,\quad L=\mu_{0}\frac{N^2A}{l}$$ $$B_{0}^{2}$$ ${}\mu \vec{y}\to{}$
+$$u_{b}=\frac{(2B)^2}{2\mu}=\frac{2B{^2}_{2}}{\mu}, \quad B=\mu_{0}\frac{N}{l}i,\quad L=\mu_{0}\frac{N^2A}{l}$$ Primero el campo magnético al aumentar la corriente de ${}i_{0}\to 5i_{0}{}$ se multiplica por 5 ${}B_{i}=\mu_{0} \frac{N}{l}i_{0}\to B_{f}=\frac{\mu_{0}N}{l}5i_{0}{}$ siendo 5 veces el valor del campo magnético inicial. Para la ${} \varepsilon{}$ tiene que ser 0, ya que la corriente deja de cambiar al final. Para la energía almacena ${}U_{Bi}=\frac{1}{2}Li^{2}\to U_{Bf}=\frac{1}{2}L(5i_{0})^{2}=\frac{1}{2}L 25i_{0}^{2}{}$ siendo después del cambio de corriente
+$$
+\Delta U_{B}=\frac{1}{2}L i_{0}^{2}(25-1)=12L i_{0}^{2}
+$$
+25 veces mayor energía almacenada 
+
+>[!question]- Energia capacitiva y energia magnetica
+>$$
+ U_{C}=\frac{q^{2}}{2C} \quad U_{B}=\frac{1}{2}L i^{2}
+ $$
+
+
